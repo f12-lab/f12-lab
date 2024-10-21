@@ -32,7 +32,7 @@
       <samp>
         [ <!--<a href="https://yourwebsite.com/about" style="color: #00ff00;">about me</a> .-->
         <a href="https://github.com/F12do?tab=repositories" style="color: #00ff00;">repositories</a> .
-        <a href="mailto:malutrab63@gmail.com" style="color: #00ff00;">contact</a> .
+        <a href="mailto:malutrab63@gmail.com" style="color: #00ff00;">contact</a>
         ]
       </samp>
     </p>
@@ -64,7 +64,7 @@
                 height="137px"
                 align="center"
                 alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=F12do&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=chartreuse-dark"
+                src="https://github-readme-stats.vercel.app/api?username=F12do&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=chartreuse-dark"
               />
             </a>
           </td>
