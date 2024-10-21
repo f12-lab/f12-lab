@@ -47,7 +47,7 @@
               <img
                 align="center"
                 alt="GitHub Trophy"
-                src="https://github-trophies.vercel.app/?username=F12do&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=tokyonight"
+                src="https://github-trophies.vercel.app/?username=F12do&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=matrix"
               />
             </a>
           </td>
@@ -64,7 +64,7 @@
                 height="137px"
                 align="center"
                 alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=F12do&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=tokyonight"
+                src="https://github-readme-stats.vercel.app/api?username=F12do&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=chartreuse-dark"
               />
             </a>
           </td>
@@ -74,7 +74,7 @@
                 height="137px"
                 align="center"
                 alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=F12do&layout=compact&line_height=21&hide_border=true&theme=tokyonight"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=F12do&layout=compact&line_height=21&hide_border=true&theme=chartreuse-dark"
               />
             </a>
           </td>
