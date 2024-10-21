@@ -13,7 +13,7 @@
         I'm F12do, an open source enthusiast.
       </b>
       <br />
-      <b>Sigue al conejo blanco...</b>
+      <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=00ff00&center=true&vCenter=true&width=435&lines=Follow+the+white+rabbit+..." alt="Typing SVG" />
     </samp>
   </p>
   <p align="right">
@@ -30,7 +30,7 @@
     <!-- Info -->
     <p align="center">
       <samp>
-        [ <a href="https://yourwebsite.com/about" style="color: #00ff00;">about me</a> .
+        [ <!--<a href="https://yourwebsite.com/about" style="color: #00ff00;">about me</a> .-->
         <a href="https://github.com/F12do?tab=repositories" style="color: #00ff00;">repositories</a> .
         <a href="mailto:malutrab63@gmail.com" style="color: #00ff00;">contact</a> .
         ]
@@ -38,7 +38,6 @@
     </p>
     <h2></h2>
     <br />
-    
     <!-- Github Trophy -->
     <div align="center">
       <table>
@@ -55,7 +54,6 @@
         </tr>
       </table>
     </div>
-    
     <!-- Github Stats -->
     <div align="center">
       <table>
