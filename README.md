@@ -37,7 +37,7 @@
     </h3>
     <p align="center">
       <samp>
-        <a href="https://github.com/F12do?tab=repositories"><img src="https://img.shields.io/badge/repositories-0-2a8?style=flat-square&logo=github&logoColor=00b300&color=00b300&labelColor=black" alt="Repositories"/></a>
+        <a href="https://github.com/F12do?tab=repositories"><img src="https://img.shields.io/badge/repositories-2a8?style=flat-square&logo=github&logoColor=00b300&color=00b300&labelColor=black" alt="Repositories"/></a>
         <a href="mailto:malutrab63@gmail.com"><img src="https://img.shields.io/badge/email-reveal-00b300?style=flat-square&logo=gmail&logoColor=00b300&labelColor=black" alt="E-Mail"/></a>
       </samp>
     </p>
