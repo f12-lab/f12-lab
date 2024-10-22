@@ -66,7 +66,7 @@
         <tr>
           <td>
               <img
-                height="137px"
+                height="200px"
                 align="center"
                 alt="GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=F12do&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&title_color=00b300&text_color=4CAF50&icon_color=00b300&bg_color=000000"
@@ -74,16 +74,18 @@
           </td>
           <td>
               <img
-                height="137px"
+                height="150px"
                 align="center"
                 alt="Top Language"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=F12do&layout=compact&line_height=21&hide_border=true&title_color=00b300&text_color=4CAF50&icon_color=00b300&bg_color=000000"
               />
           </td>
           <td>
-          <a href="https://git.io/streak-stats">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=F12do&theme=hacker&hide_border=true&border_radius=4&mode=weekly" alt="GitHub Streak" />
-          </a>
+            <img 
+              height="200px"
+              align="center"
+              alt="GitHub Streak"
+              src="https://github-readme-streak-stats.herokuapp.com?user=F12do&theme=hacker&hide_border=true&border_radius=4&mode=weekly"  />
           </td>
         </tr>
       </table>
