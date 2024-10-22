@@ -3,28 +3,32 @@
   
   <!-- Profile -->
   <p align="left">
-    <strong><samp>「</samp></strong>
+    <strong><samp>☯</samp></strong>
   </p>
   <p align="center">
     <samp>
       <b>
         Welcome
         <br />
-        I'm F12do, an open source enthusiast.
+        I'm F12do, a computer science enthusiast.
       </b>
       <br />
       <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=00ff00&center=true&vCenter=true&width=435&lines=Follow+the+white+rabbit+..." alt="Typing SVG" />
     </samp>
   </p>
   <p align="right">
-    <strong><samp>」</samp></strong>
+    <strong><samp>☯</samp></strong>
   </p>
   <br />
   
   <details>
     <summary>
       <samp><b>More Info</b></samp>
-    </summary>
+    </summary>  
+    <!-- Matrix GIF as Header -->
+    <div align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g1eXZvMDg0bnVubTVnYWl3aGp0Y2FlNW8zMzl6eDZ1d2pxbzZ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2u8vej0S5Mx7W/giphy.gif" alt="Matrix GIF" width="50%" />
+    </div>
     <h2></h2>
     <br />
     <!-- Info -->
