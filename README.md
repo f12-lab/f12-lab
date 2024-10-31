@@ -8,7 +8,7 @@
       <b>
         Welcome
         <br />
-        I'm F12do, a computer science enthusiast.
+        I'm f12-lab, a computer science enthusiast.
       </b>
       <br />
       <!--Credits: https://github.com/DenverCoder1/readme-typing-svg-->
@@ -27,12 +27,10 @@
     <div align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g1eXZvMDg0bnVubTVnYWl3aGp0Y2FlNW8zMzl6eDZ1d2pxbzZ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2u8vej0S5Mx7W/giphy.gif" alt="Matrix GIF" width="50%" />
     </div>
-    <h2></h2>
-    <br />
     <!-- Info -->
-    <h3 style=color: #00b300;>
+    <h2 style=color: #00b300;>
       📟 Connect
-    </h3>
+    </h2>
     <p align="center">
       <samp>
         <!--Credits: https://shields.io/-->
@@ -40,72 +38,62 @@
         <a href="mailto:malutrab63@gmail.com"><img src="https://img.shields.io/badge/email-reveal-00b300?style=flat-square&logo=gmail&logoColor=00b300&labelColor=black" alt="E-Mail"/></a>
       </samp>
     </p>
-    <h2></h2>
-    <br />
     <!--My languages-->
     <!--Credits: https://github.com/tandpfun/skill-icons | https://skillicons.dev/--> 
-    <h3 style=color: #00b300;>
+    <h2 style=color: #00b300;>
       🐇 Tech Stack
-    </h3>
-    <div>
+    </h2>
+    <div>  
+      <img src="https://skillicons.dev/icons?i=html,css,php,py,bash,git" />
       <details>
         <summary>
-          <samp><b>🌐 Frontend</b></samp>
+          <samp><b>🌐 My favorite OS</b></samp>
         </summary>  
-          <img src="https://skillicons.dev/icons?i=html,css" />
+          <img src="https://skillicons.dev/icons?i=kali,arch,debian" />
       </details>
-      <details>
-        <summary>
-          <samp><b>🌐 Backend</b></samp>
-        </summary>  
-          <img src="https://skillicons.dev/icons?i=php,py" />
-      </details>
-      <details>
-        <summary>
-          <samp><b>🌐 Tools</b></samp>
-        </summary>  
-          <img src="https://skillicons.dev/icons?i=bash,git,vscode" />
-      </details>
-    <div>
-    <h2></h2>
-    <br />
-    <!-- Github Trophy -->
-    <h3 style="color: #00b300;">
-      🐇 GitHub Stadistict
-    </h3>
-    <div align="center">
-            <!--Credits: https://github.com/ryo-ma/github-profile-trophy-->
-              <img
-                align="center"
-                alt="GitHub Trophy"
-                src="https://github-trophies.vercel.app/?username=f12-lab&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=6&margin-w=15&margin-h=15&no-frame=true&theme=matrix&"
-              />
     </div>
+    <!-- Github Trophy -->
+    <h2 style="color: #00b300;">
+      🐇 GitHub Stadistict
+    </h2>
     <!-- Github Stats -->
     <div align="center">
             <!--Credits: https://github.com/anuraghazra/github-readme-stats-->
               <img
-                height="120px"
+                height="130px"
                 align="center"
                 alt="GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=f12-lab&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&title_color=00b300&text_color=4CAF50&icon_color=00b300&bg_color=000000"
               />
             <!--Credits: https://github.com/DenverCoder1/github-readme-streak-stats-->
               <img 
-                height="120px"
+                height="130px"
                 align="center"
                 alt="GitHub Streak"
                 src="https://github-readme-streak-stats.herokuapp.com?user=f12-lab&theme=hacker&hide_border=true&border_radius=4&mode=weekly"  />
-            <!--Credits: https://github.com/anuraghazra/github-readme-stats-->
     </div>
     <div align="center">
-              <img
-                height="100px"
-                align="center"
-                alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=f12-lab&layout=compact&line_height=21&hide_border=true&title_color=00b300&text_color=4CAF50&icon_color=00b300&bg_color=000000"
-              />
+    <!--Credits: https://github.com/anuraghazra/github-readme-stats-->
+        <img
+          height="100px"
+          align="center"
+          alt="Top Language"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=f12-lab&layout=compact&line_height=21&hide_border=true&title_color=00b300&text_color=4CAF50&icon_color=00b300&bg_color=000000"
+        />
     </div>
+    <details>
+        <summary>
+          <samp><b>:trophy: Trophies</b></samp>
+        </summary>  
+          <div align="center">
+            <!--Credits: https://github.com/ryo-ma/github-profile-trophy-->
+              <img
+                align="center"
+                alt="GitHub Trophy"
+                src="https://github-trophies.vercel.app/?username=f12-lab&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=6&margin-w=15&margin-h=15&no-frame=true&theme=matrix&"
+              />
+          </div>
+      </details>
     <h2></h2>
     <br />
       <!-- GitHub Streak Stats -->
