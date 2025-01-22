@@ -65,21 +65,13 @@
                 alt="GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=f12-lab&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&title_color=00b300&text_color=4CAF50&icon_color=00b300&bg_color=000000"
               />
-            <!--Credits: https://github.com/DenverCoder1/github-readme-streak-stats-->
-              <img 
+            <!--Credits: https://github.com/anuraghazra/github-readme-stats-->
+              <img
                 height="130px"
                 align="center"
-                alt="GitHub Streak"
-                src="https://github-readme-streak-stats.herokuapp.com?user=f12-lab&theme=hacker&hide_border=true&border_radius=4&mode=weekly"  />
-    </div>
-    <div align="center">
-    <!--Credits: https://github.com/anuraghazra/github-readme-stats-->
-        <img
-          height="100px"
-          align="center"
-          alt="Top Language"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=f12-lab&layout=compact&line_height=21&hide_border=true&title_color=00b300&text_color=4CAF50&icon_color=00b300&bg_color=000000"
-        />
+                alt="Top Language"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=f12-lab&layout=compact&line_height=21&hide_border=true&title_color=00b300&text_color=4CAF50&icon_color=00b300&bg_color=000000"
+              />
     </div>
     <details>
         <summary>
