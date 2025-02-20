@@ -49,7 +49,7 @@
         <summary>
           <samp><b>🌐 My favorite OS</b></samp>
         </summary>
-          <img src="https://skills-icons.vercel.app/api/icons?i=kali,debian" />
+          <img src="https://skills-icons.vercel.app/api/icons?i=qubesos,kali,debian" />
       </details>
     </div>
     <!-- Github Trophy -->
