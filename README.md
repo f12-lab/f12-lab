@@ -44,7 +44,7 @@
       🐇 Tech Stack
     </h2>
     <div>
-      <img src="https://skills-icons.vercel.app/api/icons?i=html,css,php,docker,ansible,git,nginx,mysql" />
+      <img src="https://skills-icons.vercel.app/api/icons?i=git,html,css,php,docker,ansible,nginx,apache,sqlserver" />
       <details>
         <summary>
           <samp><b>🌐 My favorite OS</b></samp>
