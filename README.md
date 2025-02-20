@@ -39,22 +39,22 @@
       </samp>
     </p>
     <!--My languages-->
-    <!--Credits: https://github.com/tandpfun/skill-icons | https://skillicons.dev/--> 
+    <!--Credits: https://github.com/syvixor/skills-icons -->
     <h2 style=color: #00b300;>
       🐇 Tech Stack
     </h2>
-    <div>  
-      <img src="https://skillicons.dev/icons?i=html,css,php,py,bash,git" />
+    <div>
+      <img src="https://skills-icons.vercel.app/api/icons?i=html,css,php,docker,ansible,git,nginx,mysql" />
       <details>
         <summary>
           <samp><b>🌐 My favorite OS</b></samp>
-        </summary>  
-          <img src="https://skillicons.dev/icons?i=kali,arch,debian" />
+        </summary>
+          <img src="https://skills-icons.vercel.app/api/icons?i=kali,debian" />
       </details>
     </div>
     <!-- Github Trophy -->
     <h2 style="color: #00b300;">
-      🐇 GitHub Stadistict
+      🐇 GitHub Statistics
     </h2>
     <!-- Github Stats -->
     <div align="center">
