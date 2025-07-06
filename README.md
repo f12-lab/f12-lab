@@ -8,7 +8,7 @@
       <b>
         Welcome
         <br />
-        I'm f12-lab, a computer science enthusiast.
+        I'm f12-lab, a computer scientist.
       </b>
       <br />
       <!--Credits: https://github.com/DenverCoder1/readme-typing-svg-->
