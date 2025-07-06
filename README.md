@@ -44,7 +44,7 @@
       🐇 Tech Stack
     </h2>
     <div>
-      <img src="https://skills-icons.vercel.app/api/icons?i=git,html,css,php,docker,ansible,nginx,apache,sqlserver" />
+      <img src="https://skills-icons.vercel.app/api/icons?i=git,html,css3,php,python,docker,vagrant,ansible,nginx,apache,sqlserver,markdown" />
       <details>
         <summary>
           <samp><b>🌐 My favorite OS</b></samp>
@@ -63,7 +63,7 @@
                 height="130px"
                 align="center"
                 alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=f12-lab&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&title_color=00b300&text_color=4CAF50&icon_color=00b300&bg_color=000000"
+                src="https://github-readme-stats.vercel.app/api?username=f12-lab&show_icons=true&line_height=21&hide_border=true&title_color=00b300&text_color=4CAF50&icon_color=00b300&bg_color=000000"
               />
             <!--Credits: https://github.com/anuraghazra/github-readme-stats-->
               <img
