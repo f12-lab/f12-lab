@@ -90,16 +90,12 @@
     <br />
       <!-- GitHub Streak Stats -->
       <div align="center">
-        <!--Credits: https://dev.to/ryanlanciaux/quick-github-profile-visit-counter-14en-->
-        <img src="https://profile-counter.glitch.me/f12-lab/count.svg" />
-      </div>
-      <div align="center">
         <!--Credits: https://github.com/BrunnerLivio/brunnerlivio-->
         <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
         <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-        <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+        <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" height="30" />
         <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-        <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+        <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" height="30" />
       </div>
     </div>
   </details>
