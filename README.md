@@ -36,6 +36,7 @@
         <!--Credits: https://shields.io/-->
         <a href="https://github.com/f12-lab?tab=repositories"><img src="https://img.shields.io/badge/repositories-2a8?style=flat-square&logo=github&logoColor=00b300&color=00b300&labelColor=black" alt="Repositories"/></a>
         <a href="mailto:malutrab63@gmail.com"><img src="https://img.shields.io/badge/email-reveal-00b300?style=flat-square&logo=gmail&logoColor=00b300&labelColor=black" alt="E-Mail"/></a>
+        <a href="https://es.linkedin.com/in/manuel-luis-quero-prados-88722a36b"><img src="https://img.shields.io/badge/LinkedIn-Connect-00b300?style=flat-square&logo=linkedin&logoColor=00b300&labelColor=black" alt="LinkedIn"/></a>
       </samp>
     </p>
     <!--My languages-->
@@ -44,49 +45,14 @@
       🐇 Tech Stack
     </h2>
     <div>
-      <img src="https://skills-icons.vercel.app/api/icons?i=git,html,css3,php,python,docker,vagrant,ansible,nginx,apache,sqlserver,markdown" />
-      <details>
-        <summary>
-          <samp><b>🌐 My favorite OS</b></samp>
-        </summary>
-          <img src="https://skills-icons.vercel.app/api/icons?i=qubesos,kali,debian" />
-      </details>
+      <img src="https://skills-icons.vercel.app/api/icons?i=git,html,css3,php,java,ruby,cpp,assembly,bash,docker,vagrant,ansible,nginx,apache,sqlserver,asciidoctordocs" />
     </div>
-    <!-- Github Trophy -->
-    <h2 style="color: #00b300;">
-      🐇 GitHub Statistics
+    <h2 style=color: #00b300;>
+      🌐 My favorite OS
     </h2>
-    <!-- Github Stats -->
-    <div align="center">
-            <!--Credits: https://github.com/anuraghazra/github-readme-stats-->
-              <img
-                height="130px"
-                align="center"
-                alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=f12-lab&show_icons=true&line_height=21&hide_border=true&title_color=00b300&text_color=4CAF50&icon_color=00b300&bg_color=000000"
-              />
-            <!--Credits: https://github.com/anuraghazra/github-readme-stats-->
-              <img
-                height="130px"
-                align="center"
-                alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=f12-lab&layout=compact&line_height=21&hide_border=true&title_color=00b300&text_color=4CAF50&icon_color=00b300&bg_color=000000"
-              />
+    <div>
+      <img src="https://skills-icons.vercel.app/api/icons?i=qubesos,fedora,debian" />
     </div>
-    <details>
-        <summary>
-          <samp><b>:trophy: Trophies</b></samp>
-        </summary>  
-          <div align="center">
-            <!--Credits: https://github.com/ryo-ma/github-profile-trophy-->
-              <img
-                align="center"
-                alt="GitHub Trophy"
-                src="https://github-trophies.vercel.app/?username=f12-lab&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=6&margin-w=15&margin-h=15&no-frame=true&theme=matrix&"
-              />
-          </div>
-      </details>
-    <h2></h2>
     <br />
       <!-- GitHub Streak Stats -->
       <div align="center">
